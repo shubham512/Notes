@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/NotesApp/NotesApp/bin/Debug/net8.0
+/NotesApp/NotesApp/obj
+/NotesApp/.vs
+/NotesApp/Properties
+/NotesApp/NotesApp/NotesApp.csproj.user
